@@ -1,5 +1,5 @@
 def solution(record):
-    answer = []
+    answer =  []
     user={}
     for i in range(len(record)):
         act=record[i].split(' ')
