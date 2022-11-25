@@ -21,9 +21,6 @@ int solution(vector<int> scoville,int k){
        if(q.size() == 0){
            return -1;
        }
-            
-            
-            
         r=q.top();
         if(r>=k){
             break;
